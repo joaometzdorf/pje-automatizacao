@@ -4,15 +4,15 @@
 
 ## Tecnologias Utilizadas
 
-### Python
+### - Python
 
-### Selenium
+### - Selenium
 
-### OpenPyXL
+### - OpenPyXL
 
 ## Instalação
 
-## Clone este repositório:
+### Clone este repositório:
 
 ### git clone https://github.com/joaometzdorf/pje-automatizacao.git
 
