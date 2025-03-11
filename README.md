@@ -1,43 +1,43 @@
-###PJE Automatização
+### PJE Automatização
 
-#Este projeto visa entrar no site https://pje-consulta-publica.tjmg.jus.br/ e procurar por processos que estão ligados a um número de OAB pré-definidos. Cada processo será aberto e o código irá pegar os dados do processo, colocando-os em uma planilha do Excel, deixando de fácil visualização os dados que precisam saber.
+# Este projeto visa entrar no site https://pje-consulta-publica.tjmg.jus.br/ e procurar por processos que estão ligados a um número de OAB pré-definidos. Cada processo será aberto e o código irá pegar os dados do processo, colocando-os em uma planilha do Excel, deixando de fácil visualização os dados que precisam saber.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-#Python
+# Python
 
-#Selenium
+# Selenium
 
-#OpenPyXL
+# OpenPyXL
 
-##Instalação
+## Instalação
 
-##Clone este repositório:
+## Clone este repositório:
 
-#git clone https://github.com/joaometzdorf/pje-automatizacao.git
+# git clone https://github.com/joaometzdorf/pje-automatizacao.git
 
-##Acesse o diretório do projeto:
+## Acesse o diretório do projeto:
 
-#cd nome-do-repositorio
+# cd nome-do-repositorio
 
-##Crie um ambiente virtual e ative-o:
+## Crie um ambiente virtual e ative-o:
 
-#python -m venv venv
-#source venv/bin/activate # Linux/Mac
-#venv\Scripts\activate # Windows
+# python -m venv venv
+# source venv/bin/activate # Linux/Mac
+# venv\Scripts\activate # Windows
 
-##Instale as dependências:
+## Instale as dependências:
 
-#pip install -r requirements.txt
+# pip install -r requirements.txt
 
-##Como Usar
+## Como Usar
 
-#Execute o script principal:
+# Execute o script principal:
 
-#python app.py
+# python app.py
 
-##Contato
+## Contato
 
-#GitHub: joaometzdorf
+# GitHub: joaometzdorf
 
-#Email: joaovictormetzdorf@gmail.com
+# Email: joaovictormetzdorf@gmail.com
